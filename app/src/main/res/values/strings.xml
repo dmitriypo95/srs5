@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SRS5</string>
+    <string name="ok">OK</string>
+    <string name="one">1 Ты видел деву на скале</string>
+    <string name="two">2 В одежде белой над волнами</string>
+    <string name="three">3 Когда, бушуя в бурной мгле,</string>
+    <string name="four">4 Играло море с берегами,</string>
+    <string name="five">5 Когда луч молний озарял</string>
+    <string name="six">6 Ее всечасно блеском алым</string>
+    <string name="seven">7 И ветер бился и летал</string>
+    <string name="eight">8 С ее летучим покрывалом?</string>
+    <string name="nine">9 Прекрасно море в бурной мгле</string>
+    <string name="ten">10 И небо в блесках без лазури;</string>
+    <string name="eleven">11 Но верь мне: дева на скале</string>
+    <string name="twelve">12 Прекрасней волн, небес и бури.</string>
+</resources>
